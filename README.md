@@ -1,2 +1,9 @@
-# Better-Foliage-Recreate
-Uma breve recriação do mod "Better Foliage" da 1.7.10, mas em uma ResourcePack para novas versões!
+# Better Foliage Recreation
+
+Essa ResourcePack recria o antigo mod "Better Foliage" da 1.7.10 que transformava a principal folhagem do jogo!
+
+E não está limitado:
+
+ — [✔] Melhoria de modelos
+
+ — [✔] Novas texturas
